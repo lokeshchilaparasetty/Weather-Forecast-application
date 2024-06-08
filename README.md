@@ -25,7 +25,7 @@ npm run test
 Unit testing can be done manually by executing the above command.
 It will be done automatically prior committing the updates to the repo as a pre-commit hook.
 
-#TODOs
+# TODOs
  Provide an option for user to choose location of their choice by Name, Lat/Long etc
  Unit testing
  Identify and address edgecases.
